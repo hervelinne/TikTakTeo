@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width="1084" alt="Screen Shot 2022-09-28 at 14 18 09" src="https://user-images.githubusercontent.com/68783311/192788739-7f629216-499a-4156-b1c3-9fbdbd11e522.png">
+
 Deploy : https://astounding-beignet-1ffcb9.netlify.app/
 
 ## Available Scripts
